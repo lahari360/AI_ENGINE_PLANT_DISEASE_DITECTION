@@ -31,9 +31,8 @@ We implemented a machine learning model that analyzes images of plants to identi
 
 - Utilized deep learning techniques for image recognition
 - Implemented a user-friendly interface for easy access and usability
-
+  
 ![Flowchart](https://drive.google.com/uc?export=view&id=13n7T2sLsMOzD6p7Swmy3WL8UuN2e4kpa)
-
 ![Flowchart](https://drive.google.com/uc?export=view&id=1CMpygFONDS1X7ggBXiLvDSVAv3V0P29J)
 
 
