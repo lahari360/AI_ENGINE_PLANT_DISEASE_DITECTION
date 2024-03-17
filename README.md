@@ -1,41 +1,62 @@
 # AI_ENGINE_PLANT_DISEASE_DITECTION
-To detect the disease of plant using CNN and to integrate to the interface using Flask and after To give the brief description of that plant and the steps to prevent that particular disease and the supplements that are to be used. 
-# ⭐Plant-Disease-Detection
-* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset. Dataset Link is in My Blog Section.
 
-## ⭐Run Project in your Machine
-* You must have *Python3.8* installed in your machine.
-* Create a Python Virtual Environment & Activate Virtual Environment [Link](https://docs.python.org/3/tutorial/venv.html)
-* Install all the dependencies using below command
-    pip install -r requirements.txt
-* Go to the Flask Deployed App folder.
-* Download the pre-trained model file plant_disease_model_1.pt from [here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link)
-* Add the downloaded file in Flask Deployed App folder.
-* Run the Flask app using below command python3 app.py
-* You can also use downloaded file in Model Section and play with it using Jupyter Notebook.
+markdown
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://www.google.com">Plant Disease Detection</a><br>
+    </b>
+    ⭐This is a sample tag line⭐ <br>
+</h1>
 
-## ⭐Contribution ( Open Source )
-* This Project is now open source.
-* All the developers who are intrested they can contribute in this project.
-* Yo can make UI better , make Deep learning model more powerful , add informative markdown file in section...
-* If you will change Deep learning make sure you upload updated markdown file (.md) , .pdf and .ipynb in particular section.
-* Make sure your code is working. It will not have any type or error.
-* You have to fork this project then make a pull request after you testing will successful.
-* How to make pull request : https://opensource.com/article/19/7/create-pull-request-github
+# [Website link](http://www.google.com) [`Demo video link`](http://www.google.com) [`Other links`](http://www.google.com) 
 
-## ⭐Testing Images
+This project aims to detect plant diseases using AI technology. The demo video includes a narration by team members and provides a walkthrough of the entire project. For hardware projects, images, working videos, and code are included.
 
-* If you do not have leaf images then you can use test images located in test_images folder
-* Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+## Team Details
+Team number: VH000
 
+| Name    | Email                 |
+|---------|-----------------------|
+| Lahari  | 99210080499k@lu.ac.in |
+| Lavan   | 99210080499k@lu.ac.in |
+| Navya   | 99210080499k@lu.ac.in |
+| Mukesh  | 99210080499k@lu.ac.in |
 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
+</div>
 
-## ⭐Snippet of Web App :
-#### Main page
-<img src = "demo_images/1.png" > <br>
-#### AI Engine 
-<img src = "demo_images/2.png"> <br>
-#### Results Page 
-<img src = "demo_images/3.png"> <br>
-#### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
+## Problem Statement 
+The agricultural sector faces challenges in identifying and managing plant diseases effectively. The severity of these diseases can lead to significant crop losses and impact food security.
+
+## About the Project
+Our project aims to address these challenges by using AI technology to detect plant diseases early. This proactive approach enables farmers to take timely actions and minimize crop losses.
+
+## Technical Implementation 
+We implemented a machine learning model that analyzes images of plants to identify disease symptoms. The model utilizes multiple flowcharts and algorithms to accurately diagnose plant diseases.
+
+- Utilized deep learning techniques for image recognition
+- Implemented a user-friendly interface for easy access and usability
+
+![Flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+
+## Tech Stacks Used 
+- Python
+- TensorFlow for machine learning
+- React for the frontend
+
+## How to Run Locally 
+To run the project locally, follow these steps:
+
+1. Clone the repository
+2. Install dependencies using npm install
+3. Start the application using npm start
+
+# What's Next?
+In the future, we plan to expand the dataset for more accurate disease detection and integrate real-time monitoring features.
+
+## Declaration
+We confirm that the project showcased here was developed entirely during the hackathon. We understand that any plagiarism from online sources will result in disqualification.
+
