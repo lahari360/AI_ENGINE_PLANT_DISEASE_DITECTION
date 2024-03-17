@@ -6,7 +6,7 @@
     ⭐This is to  predict plant disease detection⭐ <br>
 </h1>
 
-# [Website link](http://127.0.0.1:5000/) [`Demo video link`](http://www.google.com) [`Other links`](http://127.0.0.1:5000/submit) 
+# [Website link](http://127.0.0.1:5000/) [`Demo video link`](https://drive.google.com/file/d/14W5tPn6BSuRf2fUtU-mB5nUt2lL_t27O/view?usp=drivesdk ) [`Other links`](http://127.0.0.1:5000/submit) 
 
 This project aims to detect plant diseases using AI technology. The demo video includes a narration by team members and provides a walkthrough of the entire project. For hardware projects, images, working videos, and code are included.
 
@@ -36,6 +36,7 @@ We implemented a machine learning model that analyzes images of plants to identi
 ![Flowchart](https://drive.google.com/uc?export=view&id=1CMpygFONDS1X7ggBXiLvDSVAv3V0P29J)
 
 ![Flowchart](https://drive.google.com/uc?export=view&id=1n_BZaZ1rJhV_GL9Knjokbu25iEbbBIZm)
+![Flowchart](https://drive.google.com/uc?export=view&id=1p9_-dgVe5PW2QkFp_7C5TOciPe3emohz)
 
 
 ## Tech Stacks Used 
