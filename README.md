@@ -6,7 +6,7 @@
     ⭐This is to  predict plant disease detection⭐ <br>
 </h1>
 
-# [Website link](http://127.0.0.1:5000/) [`Demo video link`](http://www.google.com) [`Other links`](http://www.google.com) 
+# [Website link](http://127.0.0.1:5000/) [`Demo video link`](http://www.google.com) [`Other links`](http://127.0.0.1:5000/submit) 
 
 This project aims to detect plant diseases using AI technology. The demo video includes a narration by team members and provides a walkthrough of the entire project. For hardware projects, images, working videos, and code are included.
 
