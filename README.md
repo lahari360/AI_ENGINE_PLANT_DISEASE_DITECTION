@@ -1,26 +1,24 @@
 # AI_ENGINE_PLANT_DISEASE_DITECTION
-
-markdown
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com">Plant Disease Detection</a><br>
+        <a href="https://www.google.com">AI_ENGINE_PLANT_DISEASE_DITECTION</a><br>
     </b>
-    ⭐This is a sample tag line⭐ <br>
+    ⭐This is to  predict plant disease detection⭐ <br>
 </h1>
 
-# [Website link](http://www.google.com) [`Demo video link`](http://www.google.com) [`Other links`](http://www.google.com) 
+# [Website link](http://127.0.0.1:5000/) [`Demo video link`](http://www.google.com) [`Other links`](http://www.google.com) 
 
 This project aims to detect plant diseases using AI technology. The demo video includes a narration by team members and provides a walkthrough of the entire project. For hardware projects, images, working videos, and code are included.
 
 ## Team Details
-Team number: VH000
+Team number: VH114
 
 | Name    | Email                 |
 |---------|-----------------------|
-| Lahari  | 99210080499k@lu.ac.in |
-| Lavan   | 99210080499k@lu.ac.in |
-| Navya   | 99210080499k@lu.ac.in |
-| Mukesh  | 99210080499k@lu.ac.in |
+| Lahari  | 9921004994@klu.ac.in |
+| Lavan   |  9921008066@klu.ac.in |
+| Navya   | 9921004998@klu.ac.in|
+| Mukesh  | 9921004997@klu.ac.in|
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
