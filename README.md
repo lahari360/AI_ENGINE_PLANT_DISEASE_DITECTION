@@ -20,12 +20,6 @@ Team number: VH114
 | Navya   | 9921004998@klu.ac.in|
 | Mukesh  | 9921004997@klu.ac.in|
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-</div>
-
 ## Problem Statement 
 The agricultural sector faces challenges in identifying and managing plant diseases effectively. The severity of these diseases can lead to significant crop losses and impact food security.
 
@@ -39,6 +33,9 @@ We implemented a machine learning model that analyzes images of plants to identi
 - Implemented a user-friendly interface for easy access and usability
 
 ![Flowchart](https://drive.google.com/uc?export=view&id=13n7T2sLsMOzD6p7Swmy3WL8UuN2e4kpa)
+
+![Flowchart](https://drive.google.com/uc?export=view&id=1CMpygFONDS1X7ggBXiLvDSVAv3V0P29J)
+
 
 ## Tech Stacks Used 
 - Python
