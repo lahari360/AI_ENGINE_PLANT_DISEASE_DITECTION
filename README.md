@@ -35,6 +35,8 @@ We implemented a machine learning model that analyzes images of plants to identi
 ![Flowchart](https://drive.google.com/uc?export=view&id=13n7T2sLsMOzD6p7Swmy3WL8UuN2e4kpa)
 ![Flowchart](https://drive.google.com/uc?export=view&id=1CMpygFONDS1X7ggBXiLvDSVAv3V0P29J)
 
+![Flowchart](https://drive.google.com/uc?export=view&id=1n_BZaZ1rJhV_GL9Knjokbu25iEbbBIZm)
+
 
 ## Tech Stacks Used 
 - Python
