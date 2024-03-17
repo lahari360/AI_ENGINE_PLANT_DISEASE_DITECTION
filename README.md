@@ -6,7 +6,7 @@
     ⭐This is to  predict plant disease detection⭐ <br>
 </h1>
 
-# [Website link](http://127.0.0.1:5000/) [`Demo video link`](https://drive.google.com/file/d/14W5tPn6BSuRf2fUtU-mB5nUt2lL_t27O/view?usp=drivesdk ) [`Other links`](http://127.0.0.1:5000/submit) 
+# [Website link](http://127.0.0.1:5000/) [`Demo video link`](https://drive.google.com/file/d/14W5tPn6BSuRf2fUtU-mB5nUt2lL_t27O/view?usp=drivesdk ) [`Other links`](http://127.0.0.1:5000/index) 
 
 This project aims to detect plant diseases using AI technology. The demo video includes a narration by team members and provides a walkthrough of the entire project. For hardware projects, images, working videos, and code are included.
 
